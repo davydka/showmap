@@ -57,13 +57,11 @@ app.get('/', function(req, res) {
 
 });
 
-if(process.env.NODE_ENV != 'production'){
-	app.use('/styles/main.css', express.static(__dirname + '/.tmp/styles/main.css'));
-	app.use(express.static('app'));
-	app.use('/bower_components',  express.static(__dirname + '/bower_components'));
-} else {
-	app.use(express.static(__dirname));
-}
+
+app.use('/styles/main.css', express.static(__dirname + '/.tmp/styles/main.css'));
+app.use(express.static('app'));
+app.use('/bower_components',  express.static(__dirname + '/bower_components'));
+
 
 
 server.listen(process.env.PORT || 3000);
