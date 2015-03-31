@@ -1,0 +1,115 @@
+{
+	"Mercury Lounge": {
+		"address": "217 E Houston St, new york NY, 10002",
+		"latLong": [40.722274, -73.986785]
+	},
+	"MSG": {
+		"address": "4 Pennsylvania Plaza, New York, NY 10001",
+		"latLong": [40.7506, -73.9936]
+	},
+	"Madison Square Garden": {
+		"address": "4 Pennsylvania Plaza, New York, NY 10001",
+		"latLong": [40.7506, -73.9936]
+	},
+	"Saint Vitus": {
+		"address": "1120 Manhattan Ave, Brooklyn, NY 11222",
+		"latLong": [40.736780, -73.955193]
+	},
+	"Cafe Carlyle": {
+		"address": "35 E 76th St, New York, NY 10021",
+		"latLong": [40.774306, -73.963019]
+	},
+	"Highline Ballroom": {
+		"address": "431 West 16th Street, New York, NY 10011",
+		"latLong": [40.743031, -74.005889]
+	},
+	"Bowery Ballroom": {
+		"address": "6 Delancey St, New York, NY 10002",
+		"latLong": [40.720410, -73.993337]
+	},
+	"Union Hall": {
+		"address": "702 Union St, Brooklyn, NY 11215",
+		"latLong": [40.676061, -73.980141]
+	},
+	"Littlefield": {
+		"address": "622 Degraw St, Brooklyn NY, 11217",
+		"latLong": [40.679064, -73.983500]
+	},
+	"Marlin Room at Webster Hall": {
+		"address": "125 E 11th St, New York NY, 10003",
+		"latLong": [40.731618, -73.989107]
+	},
+	"Rough Trade": {
+		"address": "64 N 9th St, Brooklyn NY, 11249",
+		"latLong": [40.720809, -73.959984]
+	},
+	"Joe's Pub": {
+		"address": "425 Lafayette St, New York NY, 10003",
+		"latLong": [40.729111, -73.991645]
+	},
+	"Singlecut Brewery": {
+		"address": "19-33 37th St, Astoria, NY 11105",
+		"latLong": [40.778388, -73.901853]
+	},
+	"Paramount": {
+		"address": "370 New York Ave, Huntington, NY 11743",
+		"latLong": [40.869750, -73.425761]
+	},
+	"Brooklyn Night Bazaar": {
+		"address": "165 Banker St, Brooklyn NY, 11222",
+		"latLong": [40.723992, -73.955228]
+	},
+	"City Center": {
+		"address": "130 W 56th St, New York, NY 10019",
+		"latLong": [40.763849, -73.979514]
+	},
+	"The Acheron": {
+		"address": "57 Waterbury St, Brooklyn, NY 11206",
+		"latLong": [40.709138, -73.937260]
+	},
+	"Acheron": {
+		"address": "57 Waterbury St, Brooklyn, NY 11206",
+		"latLong": [40.709138, -73.937260]
+	},
+	"Good Room": {
+		"address": "98 Meserole Ave, Brooklyn NY, 11222",
+		"latLong": [40.726939, -73.952908]
+	},
+	"Brooklyn Bowl": {
+		"address": "61 Wythe Ave, Brooklyn NY, 11249",
+		"latLong": [40.721935, -73.957353]
+	},
+	"Le Poisson Rouge": {
+		"address": "158 Bleecker St, New York, NY 10012",
+		"latLong": [40.728398, -74.000109]
+	},
+	"Revolution Bar & Music Hall": {
+		"address": "140 Merrick Rd, Amityville, NY 1170",
+		"latLong": [40.671263, -73.416756]
+	},
+	"Wellmont Theatre": {
+		"address": "5 Seymour St, Montclair, NJ 07042",
+		"latLong": [40.812636, -74.216630]
+	},
+	"BB King's": {
+		"address": "237 W 42nd St, New York, NY 10036",
+		"latLong": [40.756990, -73.988346]
+	},
+	"Alphaville": {
+		"address": "140 Wilson Ave, Brooklyn NY, 11237",
+		"latLong": [40.700551, -73.925774]
+	},
+	"Music Hall of Williamsburg": {
+		"address": "66 N 6th St, Brooklyn NY, 11211",
+		"latLong": [40.719140, -73.961753]
+	},
+	"Cameo Gallery": {
+		"address": "93 N 6th St, Brooklyn, NY 11211",
+		"latLong": [40.718673, -73.960286]
+	},
+	"Baby's All Right": {
+		"address": "146 Broadway, Brooklyn NY, 11211",
+		"latLong": [40.709967, -73.963592]
+	}
+}
+

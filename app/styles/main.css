@@ -1,0 +1,23 @@
+/*// bower:scss*/
+/*// endbower*/
+
+body {
+  background: #fafafa;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+    margin:0;
+    padding:0;
+}
+
+#map {
+    position:absolute;
+    top:0; bottom:0; width:100%;
+}
+
+.days {
+    position: absolute;
+    top:10px;
+    left:50%;
+    z-index: 1;
+    font-size: 40px;
+}
